@@ -1,3 +1,6 @@
+# Fall 2022 Data Science Intern Challenge 
+## Steven Zuñiga
+
 
 ### Question 1.A
 
